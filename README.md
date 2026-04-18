@@ -70,15 +70,8 @@ The system includes:
 
 **Transmission Analysis Across Fiber Lengths**
 
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
+<img width="710" height="1280" alt="WhatsApp Image 2026-04-18 at 14 14 10" src="https://github.com/user-attachments/assets/17cb7d94-7f4e-4829-a9bb-9342cfd52042" />
 
----
 
 ## Graphs
 
