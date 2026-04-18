@@ -75,7 +75,7 @@ The system includes:
 
 ## Graphs
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+<img width="1600" height="900" alt="WhatsApp Image 2026-04-18 at 14 14 14" src="https://github.com/user-attachments/assets/e63e4cdb-d872-4483-a307-afc5b51db9ba" />
 
 ---
 
